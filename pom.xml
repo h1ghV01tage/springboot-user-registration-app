@@ -47,6 +47,24 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-validation</artifactId>
 		</dependency>
+		
+		
+		<!--Angular -->
+		 <dependency>
+          <groupId>org.webjars</groupId>
+          <artifactId>angularjs</artifactId>
+          <version>1.4.9</version>
+        </dependency>
+        <!--Angular -->
+        
+        <!--bootstrap-->
+        <dependency>
+          <groupId>org.webjars</groupId>
+          <artifactId>bootstrap</artifactId>
+          <version>3.3.6</version>
+        </dependency>
+        <!--bootstrap-->
+		
 	</dependencies>
 
 	<build>
